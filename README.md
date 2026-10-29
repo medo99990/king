@@ -91,15 +91,15 @@ If IPNET is useful to you, please **star the repo** — it takes 5 seconds and h
 <!--VOLK-ZHIVO-START-->
 ## Live connection (auto-updated, copy from here)
 
-- Repo: https://github.com/X5Coder/IPNET
+- Repo: https://github.com/medo99990/king
 
 - v2rayNG link (copy/QR, TLS+WebSocket via Cloudflare):
 ```
-vmess://eyJ2IjoiMiIsInBzIjoiVk9MSy1UQVlHQSIsImFkZCI6InR1cnRsZS1mb3JtZXJseS1saXZpbmctd2l2ZXMudHJ5Y2xvdWRmbGFyZS5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiI5ZWM4ZjNiZS03NThlLTQ4N2YtYjA1Ny1jYjFlMWRkZjRhOWIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0dXJ0bGUtZm9ybWVybHktbGl2aW5nLXdpdmVzLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6Ii90YWlnYSIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiVk9MSy1UQVlHQSIsImFkZCI6Im11Zy11c2dzLWdpYnNvbi1va2F5LnRyeWNsb3VkZmxhcmUuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiOWVjOGYzYmUtNzU4ZS00ODdmLWIwNTctY2IxZTFkZGY0YTliIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibXVnLXVzZ3MtZ2lic29uLW9rYXkudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiL3RhaWdhIiwidGxzIjoidGxzIn0=
 ```
 
 - Subscription (fixed forever, auto-updates):
 ```
-https://raw.githubusercontent.com/X5Coder/IPNET/main/zayachiy_sled.txt
+https://raw.githubusercontent.com/medo99990/king/main/zayachiy_sled.txt
 ```
 <!--VOLK-ZHIVO-END-->
